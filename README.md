@@ -1,2 +1,5 @@
 # vimrc
-My vimrc file
+install Vundle and run :VindleInstall 
+This will install all the plugins. 
+
+
